@@ -1,4 +1,4 @@
-# HashTable-in-C
+# HashTable-in-C++
 Technical Details
 * Uses A Rolling Hash algorithm to hash strings similar to what is used in Java Strings .hash() function
 * Quadratic Probing is used to avoid Collisions
